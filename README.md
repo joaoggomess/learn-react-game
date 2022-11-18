@@ -1,3 +1,7 @@
+I started This project A LONG time ago. I updated here so I could remember to get back to it, and actually make it decent. 
+
+By the way: it's a (halth way done) tic tac toe game done with the react library. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
